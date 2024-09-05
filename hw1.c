@@ -1,4 +1,4 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 void main()
 {
 	puts("         /\\");
@@ -7,11 +7,11 @@ void main()
 	puts("      /      \\      ");
 	puts("     /        \\     ");
 	puts("    /          \\     ");
-	puts("⣿⣿⣿⣿⣿⣿⣿⠿⠿⢛⣋⣙⣋⣩⣭⣭⣭⣭⣍⣉⡛⠻⢿⣿⣿⣿⣿");
+	puts("   /------------\\    ");
 	puts("  ||            ||    ");
 	puts("  ||            ||     ");
 	puts("  ||   _______  ||     ");
-	puts("  ||   |     |  ||     123");
+	puts("  ||   |     |  ||     ");
 	puts("  ||   |     |  ||     ");
 	puts("  ||   |_____|  ||     ");
 	puts("  ||            ||     ");
