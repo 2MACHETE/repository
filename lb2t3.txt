@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <locale.h>
+int main()
+{
+	setlocale(LC_ALL, "Rus");
+	int n = 2;
+	int L = 333;
+	int k = 3;
+	int m = 1;
+	printf("Дано:\n%10i\n%10i\n__________\n\n+00%.1f", n, L, n/L);
+}
